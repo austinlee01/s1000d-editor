@@ -1,11 +1,11 @@
-=Useful links=
+==Useful links==
 
-==s1000d==
+===s1000d===
 
 [http://www.s1000d.org s1000d specification]
 
 [http://groups.google.com/group/S1000Dusers Google Group s1000d users]
 
-==Schema reader==
+===Schema reader===
 
 [http://ws.apache.org/jaxme/xs/ JaxMe parser]
