@@ -2,7 +2,8 @@
 
 ==s1000d==
 
-[http://www.s1000d.org s1000d specification]
+[http://www.s1000d.org s1000d specification
+
 [http://groups.google.com/group/S1000Dusers Google Group s1000d users]
 
 ==Schema reader==
