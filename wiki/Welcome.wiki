@@ -1,0 +1,5 @@
+s1000d Java GUI editor.
+
+= Introduction =
+
+Part of a more complex project for authoring and editing s1000d documents in any language and regardless the specification version.
